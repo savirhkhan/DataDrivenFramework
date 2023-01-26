@@ -1,0 +1,6 @@
+18:38:27,620 DEBUG devpinoyLogger<strong>{1}</strong>:41 - Config File Loaded!!!
+18:38:31,700 DEBUG devpinoyLogger<strong>{1}</strong>:44 - Chrome Launched!!!
+18:38:32,284 DEBUG devpinoyLogger<strong>{1}</strong>:51 - URL opened !!!
+18:38:32,541 DEBUG devpinoyLogger<strong>{1}</strong>:16 - Inside Login Test!!!
+18:38:35,882 DEBUG devpinoyLogger<strong>{1}</strong>:23 - Login successfully Executed
+18:38:36,638 DEBUG devpinoyLogger<strong>{1}</strong>:67 - Execution Completed
